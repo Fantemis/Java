@@ -1,0 +1,6 @@
+
+public class ExpressionMult extends ExpressionArithmetique {
+	public ExpressionMult() {
+		super();
+	}
+}

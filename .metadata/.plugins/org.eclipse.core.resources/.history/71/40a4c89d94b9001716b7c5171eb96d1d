@@ -1,0 +1,12 @@
+
+public class ExpressionPlus {
+	private int i;
+	public ExpressionPlus() {
+		this.i = i;
+	}
+	
+	public int evaluate() {
+		int resultat = this.entier1 + this.entier2 + this.entier3;
+		return (resultat);
+	}
+}

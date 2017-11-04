@@ -1,0 +1,24 @@
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.AfterEach;
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+
+class test_Q1 {
+	private Entier e;
+	@BeforeEach
+	void setUp() throws Exception {
+		e=new Entier(5);
+	}
+
+	@AfterEach
+	void tearDown() throws Exception {
+		e=null;
+	}
+
+	@Test
+	void test_valeur_7() {
+		fail("Not yet implemented");
+	}
+
+}

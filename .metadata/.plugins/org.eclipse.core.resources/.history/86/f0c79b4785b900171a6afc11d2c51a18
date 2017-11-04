@@ -1,0 +1,6 @@
+
+public class ExpressionDiv extends ExpressionArithmetique{
+	public ExpressionDiv() {
+		
+	}
+}

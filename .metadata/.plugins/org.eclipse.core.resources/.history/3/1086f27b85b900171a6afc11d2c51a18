@@ -1,0 +1,13 @@
+import java.util.ArrayList;
+import java.util.List;
+
+public class ExpressionArithmetique {
+	private List<Integer> liste;
+	public ExpressionArithmetique() {
+		liste = new ArrayList<Integer>();
+	}
+	public void add(ExpressionArithmetique soustraction) {
+		// TODO Auto-generated method stub
+		
+	}
+}

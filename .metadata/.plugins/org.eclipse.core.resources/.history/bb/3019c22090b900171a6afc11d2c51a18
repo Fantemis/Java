@@ -1,0 +1,6 @@
+
+public class ExpressionMoins extends ExpressionArithmetique{
+	public ExpressionMoins() {
+		super();
+	}
+}

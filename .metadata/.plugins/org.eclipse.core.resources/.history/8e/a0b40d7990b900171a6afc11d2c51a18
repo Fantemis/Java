@@ -1,0 +1,7 @@
+
+public class Entier {
+	private int x;
+	public Entier(int x) {
+		this.x = x;
+	}
+}

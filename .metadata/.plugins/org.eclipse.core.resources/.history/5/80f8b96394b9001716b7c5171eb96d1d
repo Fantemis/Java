@@ -1,0 +1,16 @@
+
+public class ExpressionPlus {
+	private int entier1;
+	private int entier2;
+	private int entier3;
+	public ExpressionPlus(int e1, int e2, int e3) {
+		this.entier1 = e1;
+		this.entier2 = e2;
+		this.entier3 = e3;
+	}
+	
+	public int evaluate() {
+		int resultat = this.entier1 + this.entier2 + this.entier3;
+		return (this.entier1 + this.entier2 + this.entier3);
+	}
+}
